@@ -9,7 +9,7 @@ The raw data comprises training and test dataset in which training set has afore
 
 The features of the datasets:
 
-> - **Years Experience:** How many years of experience any person has.<br>
+> - **Years Experience:** How many years of experience any person has?<br>
 > - **Job Type:** The position held (CEO, CFO, CTO, Vice President, Manager, Senior, Junior, Janitor).<br>
 > - **Degree:** Doctoral, Masters, Bachelors, High School, or None.<br>
 > - **Major:** Biology, Business, Chemistry, Computer Science, Engineering, Literature, Math, Physics, or None.<br>
